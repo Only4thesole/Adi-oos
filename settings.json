@@ -1,0 +1,8 @@
+{
+    "SETTINGS":{
+      "2Captcha_API":"",
+      "2Captcha_Requests_Per_Session":"5",
+      "2Captcha_Request_Cooldown":"5",
+      "Refresh_Rate":"40"
+    }
+}
